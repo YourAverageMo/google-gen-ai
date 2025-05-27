@@ -1,0 +1,1 @@
+- when running python code in the shell prefer to use `uv run`
